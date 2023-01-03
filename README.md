@@ -1,4 +1,5 @@
 ### Hi there 👋
+Contact with yunsung.lee@lge.com
 
 <!--
 **20220816/20220816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
